@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ID card</string>
+    <string name="student_name">Bikram Tuladhar</string>
+    <string name="faculty">Bachelor in Computer Application</string>
+    <string name="semester">6th semester</string>
+    <string name="profile">Profile Picture</string>
+    <string name="id_no">ID No</string>
+    <string name="_123456789">123456789</string>
+    <string name="validity">2025/01/01</string>
+    <string name="validityLabel">Validity</string>
+</resources>
